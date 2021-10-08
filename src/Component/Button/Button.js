@@ -10,7 +10,6 @@ class Button extends Component{
     render(){
 
         const { text, className, onClick, type, data }= this.props
-        // console.log(onClick)
         return <div>
             <button className={className} onClick={()=>onClick(type, data)}>{text}</button>
         </div>
