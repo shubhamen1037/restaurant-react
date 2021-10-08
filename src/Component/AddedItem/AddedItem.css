@@ -1,0 +1,43 @@
+.added-item{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.item-detail{
+    width:100px;
+    word-wrap: normal;
+    background-color:floralwhite;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.set-quantity{
+    /* background-color: white; */
+    display: flex;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.set-quantity > span{
+    background-color: white;
+    height: 16px;
+}
+.plus-minus-button{
+    background-color: yellowgreen;
+    color: white;
+    font-size: x-large;
+}
+.plus-minus-button:hover{
+    cursor: pointer;
+}
+.set-quantity > span{
+    padding: 8px;
+}
+.cancel-button{
+    background-color: red;
+    margin-left: -62px;
+    border-radius: 25%;
+    font-size: x-large;
+}
+.cancel-button:hover{
+    cursor: pointer;
+}

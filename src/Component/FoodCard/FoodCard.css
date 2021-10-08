@@ -1,0 +1,39 @@
+.foodCard{
+    border: 1px solid mediumseagreen;
+    background-color: khaki;
+    height: 182px;
+    width: 245px;
+    margin: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.price{
+    font-size: medium;
+    color: darkblue;
+}
+.item-quantity{
+    font-size: 18px;
+}
+
+.increment-decrement{
+    font-size: small;
+}
+
+.add-button{
+    /* margin-left: 170px; */
+    height: 42px;
+    width: 66px;
+    margin-bottom: -17px;
+    background-color: red;
+    color: white;
+    font-size: x-large;
+    border-radius: 10em;
+    padding: 5px;
+}
+.add-button:hover{
+    cursor: pointer;
+}

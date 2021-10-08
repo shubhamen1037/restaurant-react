@@ -1,0 +1,123 @@
+{
+    "FoodList":[
+       {
+           "id":"1",
+          "itemName":"Dosa",
+          "price":220,
+          "quantity": 0,
+          "originalPrice":220
+       },
+       {
+           "id":"2",
+          "itemName":"Idli-Sambhar",
+          "price":130,
+          "quantity": 0,
+          "originalPrice":130
+       },
+       {
+           "id":"3",
+          "itemName":"Puri-Sabji",
+          "price":200,
+          "quantity": 0,
+          "originalPrice":200
+       },
+       {
+           "id":"4",
+          "itemName":"Veg-Biryani",
+          "price":300,
+          "quantity": 0,
+          "originalPrice":300
+       },
+       {
+           "id":"5",
+          "itemName":"Kachaudi",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"6",
+          "itemName":"Samosa",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"7",
+          "itemName":"Jalebi",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"8",
+          "itemName":"Amirti",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"9",
+          "itemName":"Roti-Sabji",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"10",
+          "itemName":"Thali",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"11",
+          "itemName":"Spacial-Thali",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"12",
+          "itemName":"large-Thali",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"13",
+          "itemName":"Medium-Thali",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"14",
+          "itemName":"Burger",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"15",
+          "itemName":"Pizza",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"16",
+          "itemName":"Gold-Pizza",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       },
+       {
+           "id":"17",
+          "itemName":"Wheat-Pizza",
+          "price":120,
+          "quantity": 0,
+          "originalPrice":120
+       }
+    ]
+ }

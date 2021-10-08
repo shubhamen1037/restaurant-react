@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+}
+
+.header > img{
+    height: 75px;
+    width: 120px;
+
+}
+
+.header-heading{
+    height: 75px;
+    width: 100%;
+    background-color: gold;
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.header-heading > span{
+    color: blue;
+}
+
+.header-heading > sup{
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+}

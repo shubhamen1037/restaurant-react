@@ -1,0 +1,64 @@
+.content{
+    display: flex;
+}
+
+.food-menu{
+    height: 850px;
+    width: 60%;
+    overflow-y: auto;
+    background-color: sandybrown;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.your-cart{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: burlywood;
+    height: 500px;
+    width: 20%;
+
+}
+
+.buyNow-button{
+    width: 100%;
+    color: white;
+    background-color: indianred;
+    font-size: 30px;
+}
+
+.buyNow-button:hover{
+    cursor: pointer;
+}
+
+.your-cart > h1{
+    width: 100%;
+    background-color: darkorange;
+    color: azure;
+    margin-top: 0px;
+    height: 40px;
+    text-align: center;
+}
+
+.added-item-list{
+    height: 400px;
+    overflow-y: auto;
+}
+
+.total-price{
+    background-color:white;
+    width: 98%;
+    font-size: 25px;
+    font-weight: 20px;
+    color: navy;
+    margin: 2px;
+    /* margin-right: 2px; */
+    text-align: center;
+}
+
+.total-price > span{
+    color: tomato;
+    padding-left: 8px;
+}
